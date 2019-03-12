@@ -54,13 +54,15 @@ body {
 
 #inside-pic {
 	width: 150px;
-	height: 100px;
+	height: auto;
+	margin: 5px;
 }
 
 #message {
 	color: wheat;
 	font-size: 14pt;
 	text-align: center;
+	margin: 5px;
 }
 
 button {
@@ -69,7 +71,7 @@ button {
 	background-color: #c0392b;
 	width: 300px;
 	height: 70px;
-	margin: auto;
+	margin: 400px auto;
 	color: #fff;
 	position: absolute;
 	top: 0;
