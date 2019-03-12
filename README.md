@@ -8,4 +8,4 @@
 
 
 
-#### This project is published at: [JustBirthdayCard](https://irinaserova.github.io/JustBirthdayCard/)
+#### This project is published at: [Just Birthday Card](https://irinaserova.github.io/JustBirthdayCard/)
